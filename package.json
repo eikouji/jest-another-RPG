@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eikouji/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eikouji/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/eikouji/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
